@@ -1,1 +1,38 @@
-[{"name":"HackerTyper","url":"https://hackertyper.net","desc":"Type like a hacker in your browser!"}]
+[
+  {
+    "name": "HackerTyper",
+    "url": "https://hackertyper.net",
+    "desc": "Type like a hacker in your browser!"
+  },
+  {
+    "name": "Reddit Investigator",
+    "url": "http://redditinvestigator.com",
+    "desc": "Collect data on Reddit users."
+  },
+  {
+    "name": "PoEKit Atlas",
+    "url": "https://atlas.poekit.net",
+    "desc": "Interactive atlas for Path Of Exile"
+  },
+  {
+    "name": "RiftKit LoLPlanner",
+    "url": "https://map.riftkit.net",
+    "desc": "Plan your League of Legends strategies online"
+  },
+  {
+    "name": "RiftKit PingMe",
+    "url": "https://pingme.riftkit.net",
+    "desc": "Monitor your friends and get notified when they finish their games"
+  },
+  {
+    "name": "BorderWait",
+    "url": "https://borderwait.net",
+    "desc": "Find out your wait time at USA border with AI"
+  },
+  {
+    "name": "Imgr Gallery",
+    "url": "https://play.google.com/store/apps/details?id=net.duiker101.imgurbrowser",
+    "desc": "The first Android application for Imgur"
+  }
+
+]
